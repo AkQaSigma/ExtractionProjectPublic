@@ -1,0 +1,10 @@
+PartitionKey,FileType,ObjectName,HighLevelObject,ObjectDb,FileName,LineNumber,LinesOfCode,HighestEWISeverity,ConversionStatus,EWIs,UDFsUsed,NameOfUDFFiles,CharConversionPercentage,LoCConversionPercentage,EWIsNumber,ObjectDB,CharacterCount
+2f47804d-2f33-4406-93d0-95ed7a748ea4,SQL,DemoUsers,CREATE TABLE,Undefined DB name,DemoFolderConvert/Sources/Folder_1/CreateInsertTeradata.sql,2,13,Low,Fully Converted,MSCEWI2065 | MSCEWI2015,,,--,100%,2,,
+2f47804d-2f33-4406-93d0-95ed7a748ea4,SQL,InsertDemoUser,CREATE / REPLACE PROCEDURE,Undefined DB name,DemoFolderConvert/Sources/Folder_1/DemoUserProcedure.sql,1,23,,Fully Converted,,,,--,100%,0,,
+2f47804d-2f33-4406-93d0-95ed7a748ea4,SQL,ViewDemoUsers,CREATE / REPLACE VIEW,Undefined DB name,DemoFolderConvert/Sources/Folder_1/DemoUserViewTerradataView.sql,1,6,Low,Fully Converted,MSCEWI2045,,,--,100%,1,,
+2f47804d-2f33-4406-93d0-95ed7a748ea4,SQL,DemoUsers,CREATE TABLE,Undefined DB name,DemoFolderConvert/Sources/Folder_2/CreateInsertTeradata.sql,2,13,Low,Fully Converted,MSCEWI2065 | MSCEWI2015,,,--,100%,2,,
+2f47804d-2f33-4406-93d0-95ed7a748ea4,SQL,InsertDemoUser,CREATE / REPLACE PROCEDURE,Undefined DB name,DemoFolderConvert/Sources/Folder_2/DemoUserProcedure.sql,1,23,Low,Fully Converted,MSCEWI1022,,,--,100%,1,,
+2f47804d-2f33-4406-93d0-95ed7a748ea4,SQL,ViewDemoUsers,CREATE / REPLACE VIEW,Undefined DB name,DemoFolderConvert/Sources/Folder_2/DemoUserViewTerradataView.sql,1,6,Low,Fully Converted,MSCEWI2045,,,--,100%,1,,
+2f47804d-2f33-4406-93d0-95ed7a748ea4,SQL,DemoUsers,CREATE TABLE,Undefined DB name,DemoFolderConvert/Sources/Folder_3/CreateInsertTeradata.sql,2,13,Low,Fully Converted,MSCEWI2065 | MSCEWI2015,,,--,100%,2,,
+2f47804d-2f33-4406-93d0-95ed7a748ea4,SQL,InsertDemoUser,CREATE / REPLACE PROCEDURE,Undefined DB name,DemoFolderConvert/Sources/Folder_3/DemoUserProcedure.sql,1,23,Low,Fully Converted,MSCEWI1022,,,--,100%,1,,
+2f47804d-2f33-4406-93d0-95ed7a748ea4,SQL,ViewDemoUsers,CREATE / REPLACE VIEW,Undefined DB name,DemoFolderConvert/Sources/Folder_3/DemoUserViewTerradataView.sql,1,6,Low,Fully Converted,MSCEWI2045,,,--,100%,1,,

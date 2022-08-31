@@ -1,0 +1,4 @@
+Relationship,Script,Target_Object_DB,Target_Object_Name,Source_Object_DB,Source_Object_Name,Action
+View,DemoUserViewTerradataView.sql,<unspecified>,ViewDemoUsers,<unspecified>,ViewDemoUsers,View
+View,DemoUserViewTerradataView.sql,<unspecified>,ViewDemoUsers,<unspecified>,ViewDemoUsers,View
+View,DemoUserViewTerradataView.sql,<unspecified>,ViewDemoUsers,<unspecified>,ViewDemoUsers,View

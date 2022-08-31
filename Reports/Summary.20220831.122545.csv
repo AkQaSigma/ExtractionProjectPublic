@@ -1,0 +1,16 @@
+Category,ConvertedObjects,NotConvertedObjects,PartiallyConvertedObjects,Total,ProcessedLoC,NotProcessedLOC,ErrorParsingLOC,TotalParsingErrors,TotalConversionErrors,ErrorConversionLOC,TotalLoc
+Fallback Option,3,0,0,3,3,0,0,0,0,0,0
+Table Journal Option,3,0,0,3,3,0,0,0,0,0,0
+Table After Journal Option,3,0,0,3,3,0,0,0,0,0,0
+Checksum Option,3,0,0,3,3,0,0,0,0,0,0
+Table Merge Block Ratio Option,3,0,0,3,3,0,0,0,0,0,0
+Character Set Phrase,3,0,0,3,3,0,0,0,0,0,0
+Case Specific Column Constraint,3,0,0,3,3,0,0,0,0,0,0
+Exact Numeric Type,6,0,0,6,6,0,0,0,0,0,0
+From Clause,3,0,0,3,3,0,0,0,0,0,0
+Where Clause,3,0,0,3,3,0,0,0,0,0,0
+Teradata Select,3,0,0,3,9,0,0,0,0,0,0
+Tables,3,0,0,3,39,0,0,0,0,0,0
+Views,3,0,0,3,18,0,0,0,0,0,0
+Inserts,15,0,0,15,54,0,0,0,0,0,0
+Procedures,3,0,0,3,69,0,0,0,0,0,0

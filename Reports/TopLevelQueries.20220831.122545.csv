@@ -1,0 +1,13 @@
+PartitionKey,FileType,ObjectName,HighLevelObject,FileName,LineNumber,LinesOfCode,HighestEWISeverity,ConversionStatus,EWIs,UDFsUsed,CharConversionPercentage,LoCConversionPercentage,EWIsNumber,ObjectDB,CharacterCount
+2f47804d-2f33-4406-93d0-95ed7a748ea4,SQL,2,INSERT,DemoFolderConvert/Sources/Folder_1/CreateInsertTeradata.sql,17,1,,Fully Converted,,,--,100%,0,,
+2f47804d-2f33-4406-93d0-95ed7a748ea4,SQL,3,INSERT,DemoFolderConvert/Sources/Folder_1/CreateInsertTeradata.sql,20,1,,Fully Converted,,,--,100%,0,,
+2f47804d-2f33-4406-93d0-95ed7a748ea4,SQL,4,INSERT,DemoFolderConvert/Sources/Folder_1/CreateInsertTeradata.sql,23,1,,Fully Converted,,,--,100%,0,,
+2f47804d-2f33-4406-93d0-95ed7a748ea4,SQL,5,INSERT,DemoFolderConvert/Sources/Folder_1/CreateInsertTeradata.sql,26,1,,Fully Converted,,,--,100%,0,,
+2f47804d-2f33-4406-93d0-95ed7a748ea4,SQL,2,INSERT,DemoFolderConvert/Sources/Folder_2/CreateInsertTeradata.sql,17,1,,Fully Converted,,,--,100%,0,,
+2f47804d-2f33-4406-93d0-95ed7a748ea4,SQL,3,INSERT,DemoFolderConvert/Sources/Folder_2/CreateInsertTeradata.sql,20,1,,Fully Converted,,,--,100%,0,,
+2f47804d-2f33-4406-93d0-95ed7a748ea4,SQL,4,INSERT,DemoFolderConvert/Sources/Folder_2/CreateInsertTeradata.sql,23,1,,Fully Converted,,,--,100%,0,,
+2f47804d-2f33-4406-93d0-95ed7a748ea4,SQL,5,INSERT,DemoFolderConvert/Sources/Folder_2/CreateInsertTeradata.sql,26,1,,Fully Converted,,,--,100%,0,,
+2f47804d-2f33-4406-93d0-95ed7a748ea4,SQL,2,INSERT,DemoFolderConvert/Sources/Folder_3/CreateInsertTeradata.sql,17,1,,Fully Converted,,,--,100%,0,,
+2f47804d-2f33-4406-93d0-95ed7a748ea4,SQL,3,INSERT,DemoFolderConvert/Sources/Folder_3/CreateInsertTeradata.sql,20,1,,Fully Converted,,,--,100%,0,,
+2f47804d-2f33-4406-93d0-95ed7a748ea4,SQL,4,INSERT,DemoFolderConvert/Sources/Folder_3/CreateInsertTeradata.sql,23,1,,Fully Converted,,,--,100%,0,,
+2f47804d-2f33-4406-93d0-95ed7a748ea4,SQL,5,INSERT,DemoFolderConvert/Sources/Folder_3/CreateInsertTeradata.sql,26,1,,Fully Converted,,,--,100%,0,,
