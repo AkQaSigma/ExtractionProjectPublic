@@ -1,0 +1,2 @@
+?? .gitignore
+?? bds-auto-save-ak.qa.sigma@gmail.com-2022-09-24-14-23-56.txt
